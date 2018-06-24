@@ -18,6 +18,7 @@ clap                = "2.31.2"
 env_logger          = "0.5.10"
 failure             = "0.1.1"
 gleam               = "0.4.28"
+glsl-include        = {git = "https://github.com/jshrake/glsl-include", rev = "4d2cda6777717"}
 gstreamer           = "0.11.1"
 gstreamer-app       = "0.11.0"
 gstreamer-audio     = "0.11.0"
@@ -31,3 +32,5 @@ sdl2                = "0.31.0"
 serde               = "1.0"
 serde_derive        = "1.0"
 toml                = "0.4"
+walkdir             = "2"
+
